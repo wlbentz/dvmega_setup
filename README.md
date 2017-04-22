@@ -1,3 +1,3 @@
 # dvmega_setup
 
-[Wiki link|https://github.com/wlbentz/dvmega_setup/wiki]
+[https://github.com/wlbentz/dvmega_setup/wiki|Wiki Link]
